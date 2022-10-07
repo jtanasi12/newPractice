@@ -8,6 +8,8 @@ public class Guessing
 	
 	// This is a new comment that we are adding to the program.
 	
+	// Let us add another comment!
+	
 	public static void main(String[] args)
 	{
 		
